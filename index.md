@@ -9,3 +9,17 @@ Test of Headers
 
 # Add image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Add code
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script>
+        alert('Hello, World!');
+    </script>
+</head>
+<body>
+</body>
+</html>
