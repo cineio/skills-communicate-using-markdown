@@ -6,3 +6,6 @@
 ###### Header 6
 
 Test of Headers
+
+# Add image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
